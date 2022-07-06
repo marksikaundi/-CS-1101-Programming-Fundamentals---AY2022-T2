@@ -1,0 +1,229 @@
+Functions allow the programmer to encapsulate and generalize sections of code.
+Select one:
+True 
+False
+Question 2
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+One way to generalize a function is to replace a variable with a value.
+Select one:
+True
+False 
+Question 3
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+What is the output of the following Python statements?
+
+percentage = ( 60 * 100) // 55
+print (percentage)
+
+Select one:
+
+a.
+percentage
+
+
+b.
+109
+
+
+c.
+109.0909090909091
+
+
+d.
+109.0
+
+Feedback
+Your answer is correct.
+Question 4
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+What is the output of the following statements?
+
+pi = int(3.14159)
+print (pi)
+Select one:
+
+a.
+3
+
+b.
+3.0
+
+c.
+3.14159
+
+d.
+0
+Question 5
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+If you assign the result a void function to a variable in Python, you get:
+
+Select one:
+
+a.
+an empty string
+
+
+b.
+the value -1
+
+
+c.
+the value 0
+
+
+d.
+the special value None
+
+
+e.
+an exception
+
+Feedback
+Your answer is incorrect.
+Question 6
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+What output will the following python commands produce:
+
+x = 5
+if x % 2 == 0:
+    print (x)
+else:
+    print (x, x%2)
+Select one:
+
+a.
+5
+
+b.
+5 1
+
+c.
+2
+
+d.
+5 0
+Question 7
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+What is the output of the following Python statements?
+
+def recurse(a):
+    if (a == 0):
+        print(a)
+    else:
+        recurse(a)
+
+recurse(1)
+Select one:
+
+a.
+0
+
+
+b.
+1
+
+
+c.
+no output
+
+
+d.
+RuntimeError: maximum recursion depth exceeded
+
+Feedback
+Your answer is correct.
+Question 8
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+What output will the following python command produce:
+
+>>> percentage =  float ( 60 * 100) / 55
+>>> print (percentage)
+Select one:
+
+a.
+percentage
+
+b.
+109
+
+c.
+109.0909090909091
+
+d.
+109.0
+Question 9
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+How many different values can a Boolean expression have?
+
+Select one:
+
+a.
+3
+
+
+b.
+2
+
+
+c.
+infinite number
+
+
+d.
+1
+
+
+e.
+not defined
+
+Feedback
+Your answer is correct.
+
+Question 10
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Expressions evaluate to either true or false.  What will the output of the following code be when the  expression “Ni!” is evaluated?
+
+if "Ni!":
+    print ('We are the Knights who say, "Ni!"')
+else:
+    print ("Stop it! No more of this!")
+Select one:
+
+a.
+Stop it!
+
+b.
+We are the Knights who say, "Ni!"
+
+c.
+Stop it! No more of this!"
+
+d.
+No output will be produced

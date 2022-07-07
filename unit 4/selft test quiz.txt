@@ -1,0 +1,130 @@
+The modulus operator is the same as the divide operator.
+Select one:
+True
+False 
+Question 2
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Boolean expressions control _________________
+Select one:
+
+a.
+recursion
+
+b.
+conditional execution
+
+c.
+alternative execution
+
+d.
+all of the above
+Question 3
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Chained conditionals are used when there are three or more possibilities.
+Select one:
+True 
+False
+Question 4
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+A function that returns an integer value grater than 0 is called a boolean function.
+Select one:
+True 
+False
+Question 5
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+With built in functions, it is generally acceptable to take a "Leap of Faith".
+Select one:
+True 
+False
+Question 6
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Encapsulation is the process of wrapping a piece of code in a function
+Select one:
+True 
+False
+Question 7
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+The int function can convert floating-point values to integers, and it performs rounding up/down as needed.
+
+Select one:
+True 
+False
+Question 8
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+What output will the following code produce?
+
+def area(l, w):
+    temp = l * w;
+    return temp
+
+l = 4.0
+w = 3.25
+x = area(l, w)
+if ( x ):
+  print (x)
+Select one:
+
+a.
+13.0
+
+b.
+0
+
+c.
+Expression does not evaluate to boolean true
+
+d.
+13
+Question 9
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+"Dead code" is code that performs calculations but never displays the results.
+Select one:
+True
+False 
+Question 10
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+What output will the following statements produce using Python IDLE in interactive mode?
+
+>>>  n = 2
+>>>  n += 5
+>>>  n
+Select one:
+
+a.
+7
+
+b.
+5
+
+c.
+2
+
+d.
+an error message will occur

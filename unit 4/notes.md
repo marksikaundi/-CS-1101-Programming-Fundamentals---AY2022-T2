@@ -1,0 +1,6 @@
+`Introduction`
+- A function is a segment of code that performs a specific series of instructions. The function is "called" or executed from within other programs. As part of executing the function, data can be passed to the function as a series of arguments. Functions can also return limited information by returning a value back to the calling program, a return value.
+
+- This unit covers techniques for using functions with return values to deal with complexity. Boolean functions can be used to encapsulate complex tests, where the functions can be used in conditional statements. Composition is the technique where a function builds up a complex return value by calling simpler functions. The idea of composition can be applied to recursion to perform interesting computations.
+
+- Functions are particularly helpful with incremental development, an important strategy for dealing with complexity. By adding and testing a small amount of code at a time, a programmer can more easily debug the new features.
